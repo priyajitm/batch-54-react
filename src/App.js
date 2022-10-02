@@ -3,7 +3,7 @@ import Header from './components/Header';
 
 function App() {
   return (
-    <Header message='Hello Everyone' />
+    <Header count='4' />
   );
 }
 
